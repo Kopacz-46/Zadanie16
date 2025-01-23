@@ -2,7 +2,7 @@
 
 int main ()
 {
-    printf("hello word");
-
+    printf("hello word \n ");
+    printf("Klaudiusz Kowalczyk");
     return(0);
 }
